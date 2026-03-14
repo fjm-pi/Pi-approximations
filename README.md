@@ -52,7 +52,7 @@ The scripts focus on series expansions, infinite products, numerical methods, an
 
 ### Numerical Methods
 - **`newtons method solving for pi.py`**  
-  Uses **Newton’s method** to numerically solve an equation whose root corresponds to π.
+  Uses **Newton’s method** to numerically solve an sin(x) whose root corresponds to π.
 
 ---
 
@@ -87,12 +87,8 @@ It serves as both a programming exercise and a mathematical investigation.
 ## Requirements
 
 Python 3.x
-
-Some scripts may optionally use:
-
 - `math`
 - `decimal`
-- `numpy` (if higher precision or performance is required)
 
 ---
 
@@ -102,7 +98,6 @@ Possible future expansions include:
 
 - Visualising convergence rates
 - Implementing the **Gauss–Legendre algorithm**
-- Arbitrary precision calculations
 - Benchmarking accuracy vs computation time
 - More Ramanujan-type series
 
